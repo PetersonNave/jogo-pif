@@ -4,9 +4,15 @@
 
 Este projeto implementa uma biblioteca de Interface de Linha de Comando (CLI) em C, baseada no projeto [cli-lib](https://github.com/tgfb/cli-lib). A biblioteca oferece funções para acessar o teclado, a tela e gerenciar tarefas temporizadas, facilitando o desenvolvimento de aplicações e jogos em ambientes de terminal.
 
+## Disciplina
+Programação Imperativa e Funcional - 2025.1
+
+## Instituição: 
+CESAR School
+
 ## 👥 Integrantes
 
-* [@mxs2](https://github.com/mxs2) – Mateus Xavier
+* [@mxs2](https://github.com/mxs2) – Mateus Xavier 
 * [@victorrmatiass](https://github.com/victorrmatiass) – Victor Matias
 * [@PetersonNave](https://github.com/PetersonNave) – Peterson Melo
 
